@@ -4,7 +4,6 @@ public class Prog1 {
             System.out.printIn("TECHNOLOGICAL") ; 
             System.out.printIn("COLLEGE") ; 
             System.out.printIn("COURSE: BSIT") ; 
-
        }
 }
  
